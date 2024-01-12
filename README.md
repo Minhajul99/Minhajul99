@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Minhajul_Abedin
-- 👀 I’m interested in Machine Learning and Data Science.
+- 👋 Hi, I’m @Md_Minhajul_Abedin
+- 🔰 Digging into Machine Learning and Data Science.
 - 👀 I’m also interested in Full Stack Web Development.
 - 🌱 I’m currently learning Laravel
 - 💞️ I’m looking to collaborate on ...
