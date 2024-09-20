@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Md_Minhajul_Abedin
 - 🔰 Digging into Machine Learning and Data Science.
 - 👀 I’m also interested in Full Stack Web Development.
-- 🌱 I’m currently learning Laravel
+- 🌱 I’m currently learning Deep Learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me.
 - Email: minhajula81@gmail.com
